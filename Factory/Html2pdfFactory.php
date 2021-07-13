@@ -1,7 +1,7 @@
 <?php
 
 namespace smachara\html2pdfbundle\Factory;
-use HTML2PDF;
+use Spipu\Html2Pdf\Html2Pdf;
 /**
  * Creates HTML2PDF instances.
  */
